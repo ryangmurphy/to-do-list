@@ -3,6 +3,11 @@
 
 This project is a to-do list application designed to help users manage their tasks with an added Pomodoro timer feature for time management. The app allows for task addition, editing, deletion, and marking tasks as completed. It incorporates a dynamic display of the current date and time, and uses localStorage for data persistence.
 
+# Built With:
+-HTML
+-SCSS
+-JavaScript
+
 
 ## Installation
 
