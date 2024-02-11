@@ -1,7 +1,9 @@
 
+![todolist](https://github.com/ryangmurphy/to-do-list/assets/137011288/55ba25b1-8ee6-4e01-ae81-23e749fd5a43)
+
 # To-Do List
 
-This project is a to-do list application designed to help users manage their tasks with an added Pomodoro timer feature for time management. The app allows for task addition, editing, deletion, and marking tasks as completed. It incorporates a dynamic display of the current date and time, and uses localStorage for data persistence.
+This project is a to-do list application designed to help users manage their tasks with an added Pomodoro timer feature for time management. The app allows for task addition, editing, deletion, and marking tasks as completed. It incorporates a dynamic display of the current date and time and uses localStorage for data persistence.
 
 # Built With:
 
